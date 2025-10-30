@@ -9,6 +9,6 @@ int main()
  scanf("%d", &num);
  printf("La tabla de multiplicar del %d es:\n", num);
  while (++cont <= 10)
- printf("%d x %d = %d\n", num, cont, num*cont);
+   printf("%d x %d = %d\n", num, cont, num*cont);
  return 0;
 }

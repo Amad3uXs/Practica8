@@ -1,6 +1,6 @@
 /*David Alejandro Martínez Vega L´Englisse
 practica 8 ejercicio 1*/
-
+ 
 int main()
 {
  int num, cont = 0;
